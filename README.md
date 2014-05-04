@@ -1,9 +1,8 @@
-sourceday
+openage
 =========
 
 Shanghai opensource activity management system.
 
-This system will be installed on http://www.sourceday.org
-2013.09.12
+2014.05.04
 
 By Park Qu
